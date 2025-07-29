@@ -105,4 +105,5 @@ textarea:not([rows]) {
 
 p {
   font-family: 'text', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
 }
