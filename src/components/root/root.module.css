@@ -1,0 +1,37 @@
+/* root */
+.root {
+    height: 932px;
+    width: 100vw;
+}
+
+.root h2{
+    font-family: 'Branding';
+    font-size: 37pt;
+}
+
+.root h3{
+    font-family: 'Subtitles';
+    font-size: 16pt;
+}
+
+/* header */
+.header {
+    background-image: url('../../assets/img/Header.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 120px;
+    width: inherit;
+}
+
+.header a{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: inherit;
+    height: inherit;
+}
+
+.header h3{
+    margin: 10px;
+}

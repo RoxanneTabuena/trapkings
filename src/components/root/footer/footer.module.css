@@ -1,0 +1,31 @@
+/* footer */
+.footer {
+    height: 100px;
+    width: inherit;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* linkButt */
+.linkButt {
+    height: 80px;
+    width: 160px;
+    height: inherit;
+    background-image: url('../../../assets/img/LinkButt.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.linkButt p {
+    font-family: 'Branding';
+    font-size: 30px;
+    line-height: .8;
+}
